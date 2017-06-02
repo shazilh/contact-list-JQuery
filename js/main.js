@@ -28,7 +28,7 @@ function agregarNuevoContacto(e){
     areaPublicarContacto.appendChild(nuevoTelefono);
     
     contenedorPublicaciones.appendChild(areaPublicarContacto);
-    contenedorPublicaciones.value = "";
+    
     
     
 }
