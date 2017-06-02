@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logoQuerys{
+    width: 50px;
+    height: 50px;
+}
+.buscarCont{
+    width: 50%;
+}
+.princ{
+    background-color: crimson;
+}
+.letraBlanca{
+    color:white;
+}
+.search{
+    width: 30px;
+    height: 30px;
+    margin-left: 50px;
+}
+.botonAgregar{
+    width: 50px;
+}
+.contPrinc{
+    padding-left: 150px;
+}
+/*estilos para modal*/
+#modalContacto img{
+    width: 40px;
+    height: 40px;
+    margin-top: 30px;
+}
